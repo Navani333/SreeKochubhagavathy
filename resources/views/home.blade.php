@@ -134,7 +134,7 @@
   <div class="container">
 
     <div class="section-title">
-      <h2>ക്ഷേത്ര തന്ത്രികൾd</h2>
+      <h2>ക്ഷേത്ര തന്ത്രികൾ</h2>
     </div>
 
     <div class="row justify-content-center">
