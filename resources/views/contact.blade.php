@@ -82,7 +82,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>ശ്രീ കൊച്ചുഭഗവതി ക്ഷേത്രം</p>
+          <p>ശ്രീ കൊച്ചുഭഗവതി ക്ഷേത്രം cjfyl.iuytj5</p>
         </div>
       </div>
       <div class="map">
